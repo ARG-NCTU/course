@@ -1,1 +1,1 @@
-Docker/docker_join.sh
+Docker/cpu/docker_join.sh
